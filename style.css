@@ -5,3 +5,8 @@ h1{
 body {
 	bacground-color: #CDCDCD;
 }
+
+span{
+	font-size: 10px;
+	color:green;
+}
